@@ -1,0 +1,7 @@
+node_modules/
+.next/
+out/
+build/
+tsconfig.tsbuildinfo
+.DS_Store
+*.local
